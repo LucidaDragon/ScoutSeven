@@ -1,0 +1,11 @@
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\bin\Debug\ScoutSeven.exe.config
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\bin\Debug\ScoutSeven.exe
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\bin\Debug\ScoutSeven.pdb
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\bin\Debug\ScoutSeven.xml
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.vbprojResolveAssemblyReference.cache
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.Resources.resources
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.vbproj.GenerateResource.Cache
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.vbproj.CoreCompileInputs.cache
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.exe
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.xml
+C:\Users\LucidaDragon\source\repos\ScoutSeven\ScoutSeven\obj\Debug\ScoutSeven.pdb
